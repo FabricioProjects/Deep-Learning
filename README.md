@@ -1,2 +1,3 @@
 # Deep-Learning
-Deep neural networks (DNN), Convolutional neural networks (CNN), Autoencoders, Generative adversarial networks (GAN).
+Deep Learning Archtectures (DNNs, LSTM, RNNs, CNNs, GANs), Regression, Classification, Multivariate Time Series,   Hyperparametrization.
+
